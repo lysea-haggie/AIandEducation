@@ -22,7 +22,7 @@ title: AI and Education
 email: lysea.haggie@auckland.ac.nz
 description: >- # this means to ignore newlines until "baseurl:"
   This site is to collate information and content for my OPMSCA internship.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
