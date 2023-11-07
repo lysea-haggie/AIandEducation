@@ -53,4 +53,4 @@ plugins:
 #   - vendor/ruby/
 
 include: 
-   - /_pdfs/CV.pdf
+   - pdf
