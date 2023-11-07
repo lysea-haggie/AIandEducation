@@ -6,6 +6,4 @@ permalink: /CV/
 
 <!--See <a href="https://lysea-haggie.github.io/AIandEducation/docs/_pdfs/CV.pdf" target="_blank">my CV here.</a>-->
 
-<object src="/docs/_pdfs/CV.pdf" type="application/pdf" title="CV" width="500" height="720">
-    <a href="/docs/_pdfs/CV.pdf">shree</a> 
-</object>
+<embed src="https://lysea-haggie.github.io/AIandEducation/docs/_pdfs/CV.pdf" type="application/pdf"/>
