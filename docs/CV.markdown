@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-See <a href="/_pdfs/CV.pdf" target="_blank">my CV here.</a>
+See <a href="https://lysea-haggie.github.io/AIandEducation/docs/_pdfs/CV.pdf" target="_blank">my CV here.</a>
