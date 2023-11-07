@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Kia ora! My name is Lysea (lie-see-a).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am interested in emerging technologies and how they can be used to benefit humanity.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+See my [University of Auckland Profile to learn about my research](https://profiles.auckland.ac.nz/lysea-haggie/about).
 
 
-[jekyll-organization]: https://github.com/jekyll
+
