@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-{% pdf "/_pdfs/CV.pdf" %}
+<a href="lysea-haggie.github.io/AIandEducation/_pdfs/CV.pdf" target="_blank">PDF.</a>
