@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Introduction to AI"
 date:   2023-11-08
 categories: Technology
