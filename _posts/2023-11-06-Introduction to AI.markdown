@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Introduction to AI"
-date:   2023-11-08
+date:   2023-11-06
 categories: Technology
 ---
 Artificial Intelligence (AI) refers to algorithms and software in machines or computers that can perform complex or human-like tasks. A key feature of AI systems is that they are designed to adapt or learn from large amounts of data to optimise their performance. 

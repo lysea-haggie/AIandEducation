@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "International AI Trends"
-date:   2023-11-09
+date:   2023-11-07
 categories: Policy
 ---
 In recent years, the world has witnessed the rapid emergence of artificial intelligence (AI) as a transformative technology with profound economic and social implications. Nations across the globe are recognising the potential of AI and its diverse applications, ranging from business and healthcare to transportation and education. To be able to harness the benefits of AI across sectors of society, education will be instrumental in the use and adoption of the technology and in the development of future talent. The education sector has and will need to continue adapting to the changing context of this century through considered implementation of emerging digital technologies. 
